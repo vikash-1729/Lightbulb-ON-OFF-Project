@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+h3{
+    font-size: .8rem;
+}
+.MainContainer{
+    margin: auto;
+    width: 200px;
+    height: 120px;
+    background-color: rgb(186, 186, 224);
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 2px solid color-mix(in srgb-linear,red 50%, yellow 50%) ;
+    box-shadow: 3px 3px 10px;
+
+}
+#lightoff{
+    margin: auto;
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+}
+#turnon{
+    color: green;
+}
+
+   
